@@ -290,3 +290,4 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 | --- | --- | --- | --- |
 
 | [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+
